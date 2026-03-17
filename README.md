@@ -63,5 +63,7 @@ Como a infraestrutura foi encerrada para fins de economia, abaixo estão os regi
 * **Deploy via SSH:** Gerenciamento de arquivos e execução de JARs via linha de comando no Amazon Linux.
 
 ---
-Agradecimentos à Professora Fernanda Kipper,
+Agradecimentos à Professora Fernanda Kipper,  
+
+
 Feito com ❤️ por Mariana Santos
